@@ -1,5 +1,8 @@
 # CATUR MANIAC
 + 2026(c)Bukittinggi House Game
+
++ PLAY GAME
++ https://stmarkita-collab.github.io/Mcatur/
   
 ## 📜 Fitur FIDE (Fédération Internationale des Échecs) yang Diimplementasikan:
 ### ✅ Pasal 3: Gerakan Bidak
